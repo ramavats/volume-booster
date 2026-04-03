@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume Booster</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="icon">🔊</div>
+            <h1>Volume Booster</h1>
+        </header>
+
+        <main>
+            <div class="dial-container">
+                <div class="value-display">
+                    <span id="volumeValue">100</span>%
+                </div>
+            </div>
+            
+            <div class="slider-wrapper">
+                <span class="icon-small">🔈</span>
+                <input type="range" id="volumeSlider" min="100" max="600" value="100" step="10">
+                <span class="icon-small">🔊</span>
+            </div>
+
+            <button id="resetBtn" class="reset-btn">Reset to 100%</button>
+        </main>
+
+        <footer>
+            <p>Made with ❤️ by Rama Jha</p>
+        </footer>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
