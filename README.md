@@ -57,7 +57,7 @@ Since we can't afford the $5 Chrome Web Store developer fee right now, here's ho
 
 ### For Firefox Add-ons (Already Submitted! ✅)
 
-This extension has been submitted to [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/volume-booster/) and is now available for download!
+This extension has been submitted to [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/volume-booster-tiny/) and is now available for download!
 
 **Technical Details:**
 
